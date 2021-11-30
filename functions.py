@@ -5,3 +5,7 @@ def call_my_name():
 def product(a, b):
     print(f"{a} * {b} = {a*b}")
     return a * b
+
+
+def division(a, b):
+    print(f"{a} / {b} = {a/b}")
