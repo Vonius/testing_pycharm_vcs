@@ -2,8 +2,6 @@ from functions import call_my_name, product, division
 
 
 def another_test_function():
-    x = 5
-    y = 9
     print(f"lol, it's so boring testing vcs")
 
 
