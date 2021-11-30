@@ -11,6 +11,7 @@ def main(a, b):
 
 
 if __name__ == "__main__":
+    print('finally I understand git push, pull and pull request ;-) ')
     main(4, 6)
     call_my_name()
     division(product(5, 6), 2)
